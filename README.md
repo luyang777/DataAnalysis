@@ -1,4 +1,4 @@
 # DataAnalysis
 
-This project includes two parts: Matlab, Python
-They are for data analysis 
+This project is for data analysis.
+It has two version in different programming languages, Matlab and Python.
